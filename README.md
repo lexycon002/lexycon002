@@ -141,18 +141,17 @@ A web application project focused on school administration and management interf
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
-    alt="Hammad's GitHub Statistics"
+    src="https://github-readme-stats.vercel.app/api?username=lexycon002&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&commits_year=2026"
+    alt="GitHub statistics for Hammad Awowole"
   />
 </p>
 
 <p align="center">
   <img
-    src="./profile/top-langs.svg"
-    alt="Hammad's Most Used Programming Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexycon002&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most used programming languages"
   />
 </p>
-
 
 
 ## 🌐 Connect With Me
