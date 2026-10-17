@@ -70,7 +70,7 @@ A mobile application for staff bus reservations, seat selection, digital boardin
 
 **Tech:** React Native, Expo, TypeScript, Next.js, PostgreSQL, Supabase.
 
-### 💰 Savicle — Thrift & Savings Application
+### 💰 Savicle - Thrift & Savings Application
 
 An ongoing fintech application focused on digitizing thrift contributions, member onboarding, and savings workflows.
 
