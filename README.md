@@ -138,8 +138,6 @@ A web application project focused on school administration and management interf
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=lexycon002&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&commits_year=2026"
